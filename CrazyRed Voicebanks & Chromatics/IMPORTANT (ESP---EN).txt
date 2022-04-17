@@ -1,0 +1,17 @@
+ESP/
+Gracias por usar mis Chromatics y Voicebanks, recuerda dejar creditos y el link a este Github
+Si hay algun problema o duda no olvides en comentarmelo y intentare solucionarlo (en cuanto eso se pueda xD)
+
+Cosas que nececitaras:
+
+FL Studio/Audacity/Polyphone(Este en caso que nececites o quieras hacer un Soundfont) = Chromatics Scales
+Utau = Voicebanks
+
+EN/
+Thanks for using my Chromatics and Voicebanks, remember to leave credits and the link to this Github.
+If there is any problem or doubt don't forget to tell me about it and I will try to solve it (as soon as I can xD)
+
+Things you will need:
+
+FL Studio/Audacity/Polyphone(This one in case you need or want to make a Soundfont) = Chromatics Scales
+Utau = Voicebanks
