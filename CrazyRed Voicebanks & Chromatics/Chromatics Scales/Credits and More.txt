@@ -1,0 +1,42 @@
+Ander Universe/Peridot Voicebanks = Made by Himself (Ander Universe)
+
+Blitzo/Loona/Moxxie Voicebanks = Made by Richie Scassellati
+
+Shadow Voicebank = Made by Kwy and Tuned by me (CrazyRed)
+
+Boifend/Girlfriend Voicebanks = Made by GenoX
+
+Charlie Green (CG5) Voicebank = Made by Blantados
+
+Kasane Teto Voicebank = Made by TWINDRILL and Oyamano Mayo
+
+Chris(or GuyFriend/GF Brother/Genderswap GF) SF2 = Made by Davisudo
+
+
+ENG/
+Some of all the scales are from C3 to B5.
+
+Some scales (mostly those made in UTAU) can sound a bit weird, but this is because the voicebanks had very short or inaudible(or strange) samples for the utau (also the resamplers helped a lot to make the chromatic scales sound better).
+Shadow's voicebank can sing long notes, but at the end the sample always fades out slowly, I don't know if his scale is loopeable but at least his voicebank is (I had to tune it to make it sound better)
+
+Chris's chromatics is not up to B5 because he created it using his Soundfont.
+
+I had to remove the modifications of Peridot's Voicebank, I did this to make the scale sound better (because the modification made by Ander sounded strange when I made them a note) but it still sounds good, I guess ....
+
+The scale of CrazyRed and Hexxie are made by me but they don't have sprites, I doubt you'll use them lol, unless you want Crazy's FNF style sprite( its just a draw LMAO) if you want it just ask me.
+
+This folder as this document will be updated in the future.
+
+ESP/
+Algunas de las escalas son de C3 a B5.
+Algunas escalas (sobre todo las hechas en UTAU) pueden sonar un poco raras, pero esto se debe a que los voicebanks tenían muestras muy cortas o inaudibles(o extrañas) para el utau (también los resamplers ayudaron mucho a que las escalas cromáticas sonaran mejor).
+El voicebank de Shadow puede cantar notas largas, pero al final el sample siempre se desvanece lentamente, no se si su escala es loopeable pero al menos su voicebank si lo es (tuve que tunearlo para que sonara mejor)
+
+La escala de Chris no llega a B5 porque lo creó usando su Soundfont.
+
+Tuve que quitar las modificaciones del Voicebank de Peridot, lo hice para que la escala sonara mejor (porque la modificación hecha por Ander sonaba extraña cuando les hice una nota) pero sigue sonando bien, creo......
+
+La escala de CrazyRed y Hexxie son hechas por mi, pero como no tienen sprites dudo que los uses lol, a menos que quieras el sprite al estilo de FNF de Crazy( es solo un dibujo LMAO) si lo quieres solo pídemelo.
+
+Esta carpeta como este documento se actualizará en el futuro.
+
