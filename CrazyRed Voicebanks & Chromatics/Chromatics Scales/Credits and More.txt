@@ -2,7 +2,7 @@ Ander Universe/Peridot Voicebanks = Made by Himself (Ander Universe)
 
 Blitzo/Loona/Moxxie Voicebanks = Made by Richie Scassellati
 
-Shadow Voicebank = Made by Kwy and Tuned by me (CrazyRed)
+(Old) Shadow Voicebank = Made by Kwy and Tuned by me (CrazyRed)
 
 Boifend/Girlfriend Voicebanks = Made by GenoX
 
@@ -12,9 +12,58 @@ Kasane Teto Voicebank = Made by TWINDRILL and Oyamano Mayo
 
 Chris(or GuyFriend/GF Brother/Genderswap GF) SF2 = Made by Davisudo
 
+Tuned Peridot Voicebank = Made By me (CrazyRed)
+
+Shadow New Chromatic Scale = Original Voicebank made by Kwy/ Tuned in Newtone by me (CrazyRed)
+
+Default Girl Scale = Samples by BBPanzu (Ripped from Avril Lavigne) / the Chrom was made in Newtone by me (CrazyRed)
+
+Not Utau Dawko Chrom = Made in Newtone by me (CrazyRed)
+
+Alice (BF MOM) Chrom = GenoX Mommy Mearest Voicebank (High Pitched) / the Chrom was made in Newtone by me (CrazyRed)
+
+Swap GF Chromatic = Bandubs (Unedited Lullaby GF "A") Kawai Sprite (Unused GF Beeps "I-U" / Tutorial vocals "LEFT") BF ("O")
 
 ENG/
-Some of all the scales are from C3 to B5.
+(ALMOST) Some of all the scales are from C3 to B5.
+
+Hello again, I hope you use the Chromatic Scales, I worked a lot on these, I wanted to put my efforts here.
+
+So I remastered the Peridot and Shadow chroms.
+For the Shadow one I used the same Voicebank but I didn't use UTAU to create the scale. I made 5 long notes in UTAU and exported them, then I used Audacity to cut parts of the samples that sounded strange and normalized the volume of the samples (since most of them died at the end) then I used Newtone to create the scale, I followed the same order as the first scale.
+
+For Peridot, I used almost the same samples as Ander (in fact I was inspired by him to create the VB of Tuned Peridot) I used Audacity and Newtone to stretch and tune the samples, I also used another Peridot voice line for the "O". 
+
+For Alice it's not much lol, I used GenoX voicebank and used Newtone to create the chrom, it's not much magic lol 
+
+I don't support Gacha stuff, but BBpanzu's Default Girl mod is very underrated, DFG's voice is great, so I went to BB's Github and found the samples and stretched them in Newtone, then a bit in Audacity, then did the scaling in Newtone.
+
+I thought Swap GF deserved to have her own voice, she deserves more lol, for the samples I used the above mentioned, then I created a VB (which is not the one available here) then I used Audacity to stretch, and I created the scale in Newtone.
+
+Dawko, I thought his scale (which is made in UTAU) sounded a bit weird, so I decided to remaster it in Newtone.
+
+And well that's all(For now) remember to always give credits, this .txt will be updated in the future, have fun with these!
+Bye-
+
+ESP/
+Hola de nuevo, espero que usen las Escalas Cromáticas, trabajé mucho en estas, quería poner mis esfuerzos aquí.
+
+Así que remastericé las cromáticas de Peridot y Shadow.
+Para el de Shadow usé el mismo Voicebank pero no usé UTAU para crear la escala. Hice 5 notas largas en UTAU y las exporté, luego usé Audacity para cortar partes de las muestras que sonaban extrañas y normalicé el volumen de las muestras (ya que la mayoría morían al final) luego usé Newtone para crear la escala, seguí el mismo orden que la primera escala.
+
+Para Peridot, utilicé casi las mismas muestras que Ander (de hecho me inspiré en él para crear el VB de Peridot afinado) utilicé Audacity y Newtone para estirar y afinar las muestras, también utilicé otra línea de voz de Peridot para la "O". 
+
+Para Alice no es mucho lol, usé GenoX voicebank y usé Newtone para crear el cromo, no es mucha magia lol 
+
+No apoyo cosas de Gacha, pero el mod Default Girl de BBpanzu está muy infravalorado, la voz de DFG es genial, así que fui al Github de BB y encontré las muestras y las estiré en Newtone, luego un poco en Audacity, luego hice el escalado en Newtone.
+
+Pensé que Swap GF merecía tener su propia voz, se merece más lol, para las muestras usé lo mencionado anteriormente, luego creé un VB (que no es el que está disponible aquí) luego usé Audacity para estirar, y creé la escala en Newtone.
+
+Dawko, me pareció que su escala (que está hecha en UTAU) sonaba un poco rara, así que decidí remasterizarla en Newtone.
+
+Y bueno eso es todo (Por ahora) recuerden dar siempre los créditos, este .txt será actualizado en el futuro, ¡diviértanse con esto!
+Chao-
+----------------------------- OLD LOG ------------------------------
 
 Some scales (mostly those made in UTAU) can sound a bit weird, but this is because the voicebanks had very short or inaudible(or strange) samples for the utau (also the resamplers helped a lot to make the chromatic scales sound better).
 Shadow's voicebank can sing long notes, but at the end the sample always fades out slowly, I don't know if his scale is loopeable but at least his voicebank is (I had to tune it to make it sound better)
@@ -29,14 +78,14 @@ This folder as this document will be updated in the future.
 
 ESP/
 Algunas de las escalas son de C3 a B5.
-Algunas escalas (sobre todo las hechas en UTAU) pueden sonar un poco raras, pero esto se debe a que los voicebanks ten�an muestras muy cortas o inaudibles(o extra�as) para el utau (tambi�n los resamplers ayudaron mucho a que las escalas crom�ticas sonaran mejor).
+Algunas escalas (sobre todo las hechas en UTAU) pueden sonar un poco raras, pero esto se debe a que los voicebanks tenían muestras muy cortas o inaudibles(o extrañas) para el utau (también los resamplers ayudaron mucho a que las escalas cromáticas sonaran mejor).
 El voicebank de Shadow puede cantar notas largas, pero al final el sample siempre se desvanece lentamente, no se si su escala es loopeable pero al menos su voicebank si lo es (tuve que tunearlo para que sonara mejor)
 
-La escala de Chris no llega a B5 porque lo cre� usando su Soundfont.
+La escala de Chris no llega a B5 porque lo creó usando su Soundfont.
 
-Tuve que quitar las modificaciones del Voicebank de Peridot, lo hice para que la escala sonara mejor (porque la modificaci�n hecha por Ander sonaba extra�a cuando les hice una nota) pero sigue sonando bien, creo......
+Tuve que quitar las modificaciones del Voicebank de Peridot, lo hice para que la escala sonara mejor (porque la modificación hecha por Ander sonaba extraña cuando les hice una nota) pero sigue sonando bien, creo......
 
-La escala de CrazyRed y Hexxie son hechas por mi, pero como no tienen sprites dudo que los uses lol, a menos que quieras el sprite al estilo de FNF de Crazy( es solo un dibujo LMAO) si lo quieres solo p�demelo.
+La escala de CrazyRed y Hexxie son hechas por mi, pero como no tienen sprites dudo que los uses lol, a menos que quieras el sprite al estilo de FNF de Crazy( es solo un dibujo LMAO) si lo quieres solo pídemelo.
 
-Esta carpeta como este documento se actualizar� en el futuro.
+Esta carpeta como este documento se actualizará en el futuro.
 
